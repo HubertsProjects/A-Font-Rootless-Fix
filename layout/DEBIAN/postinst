@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [ -d "/var/jb/" ]; then
+    chmod 777 /var/jb/Library/A-Font
+else 
+    chmod 777 /Library/A-Font
+fi

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Credits</key>
+	<string>Credits</string>
+
+	<key>A-Font Settings</key>
+	<string>A-Font Settings</string>
+
+	<key>A-Font will load fonts from /Library/A-Font/. If you added a new font, you need to restart the settings app or SpringBoard.</key>
+	<string>A-Font will load fonts from /Library/A-Font/. If you added a new font, you need to restart the settings app or SpringBoard.</string>
+	
+	<key>Enable</key>
+	<string>Enable</string>
+	
+	<key>Font</key>
+	<string>Font</string>
+	
+	<key>Bold Font</key>
+	<string>Bold Font</string>
+	
+	<key>Blacklist</key>
+	<string>Blacklist</string>
+	
+	<key>Browse fonts from online</key>
+	<string>Browse fonts from online</string>
+	
+	<key>Open font folder</key>
+	<string>Open font folder</string>
+	
+	<key>Font Size</key>
+	<string>Font Size</string>
+	
+	<key>Font Size feature can cause unexpected problems. If this is not needed, keep 1.0</key>
+	<string>Font Size feature can cause unexpected problems. If this is not needed, keep 1.0</string>
+	
+	<key>WebKit Options</key>
+	<string>WebKit Options</string>
+	
+	<key>If this option is enabled, A-Font injects CSS into WebKit. Some fonts are not available in Safari.</key>
+	<string>If this option is enabled, A-Font injects CSS into WebKit. Some fonts are not available in Safari.</string>
+	
+	<key>Enable in WebKit</key>
+	<string>Enable in WebKit</string>
+	
+	<key>Use !important tag</key>
+	<string>Use !important tag</string>
+	
+	<key>Recommended</key>
+	<string>Recommended</string>
+	
+	<key>Clear font cache and restart SpringBoard</key>
+	<string>Clear font cache and restart SpringBoard</string>
+	
+	<key>Restart SpringBoard</key>
+	<string>Restart SpringBoard</string>
+	
+	<key>A-Font will delete the following files and restart Springboard.Are you sure?</key>
+	<string>A-Font will delete the following files and restart Springboard.
+Are you sure?</string>
+	
+	<key>Cancel</key>
+	<string>Cancel</string>
+	
+	<key>Clear cache</key>
+	<string>Clear cache</string>
+	
+	<key>Change your font!</key>
+	<string>Change your font!</string>
+	
+	<key>A-Font is fast</key>
+	<string>A-Font is fast</string>
+	
+	<key>A-Font is easy</key>
+	<string>A-Font is easy</string>
+	
+	<key>A-Font is convenient</key>
+	<string>A-Font is convenient</string>
+	
+	<key>If you want custom font? Just place the font to /Library/A-Font/</key>
+	<string>If you want custom font? Just place the font to /Library/A-Font/</string>
+	
+	<key>Easily clear the cache after changing fonts. Just two touches.</key>
+	<string>Easily clear the cache after changing fonts. Just two touches.</string>
+	
+	<key>You can explore new font in Google Fonts and download them to your device.</key>
+	<string>You can explore new font in Google Fonts and download them to your device.</string>
+	
+	<key>Continue</key>
+	<string>Continue</string>
+	
+	<key>Enable UILabel Hook</key>
+	<string>Enable UILabel Hook</string>
+</dict>
+</plist>

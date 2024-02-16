@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Credits</key>
+	<string>크레딧</string>
+
+	<key>A-Font Settings</key>
+	<string>A-Font 설정</string>
+
+	<key>A-Font will load fonts from /Library/A-Font/. If you added a new font, you need to restart the settings app or SpringBoard.</key>
+	<string>A-Font는 /Library/A-Font/에서 폰트를 로드합니다. 만약 새 폰트를 추가했다면, 설정 앱 또는 SpringBoard를 재시작해야 합니다.</string>
+	
+	<key>Enable</key>
+	<string>활성화</string>
+	
+	<key>Font</key>
+	<string>폰트</string>
+	
+	<key>Bold Font</key>
+	<string>볼드 폰트</string>
+	
+	<key>Blacklist</key>
+	<string>블랙리스트</string>
+	
+	<key>Browse fonts from online</key>
+	<string>온라인에서 폰트 탐색</string>
+	
+	<key>Open font folder</key>
+	<string>폰트 폴더 열기</string>
+	
+	<key>Font Size</key>
+	<string>폰트 크기</string>
+	
+	<key>Font Size feature can cause unexpected problems. If this is not needed, keep 1.0</key>
+	<string>폰트 크기 기능은 예상되지 않는 문제를 일으킬 수 있습니다. 이것이 필요하지 않다면 1.0을 유지하세요.</string>
+	
+	<key>WebKit Options</key>
+	<string>WebKit 옵션</string>
+	
+	<key>If this option is enabled, A-Font injects CSS into WebKit. Some fonts are not available in Safari.</key>
+	<string>이 옵션이 활성화되면 A-Font는 WebKit에 CSS를 주입합니다. 일부 폰트는 Safari에서 사용할 수 없습니다.</string>
+	
+	<key>Enable in WebKit</key>
+	<string>WebKit에서 활성화</string>
+	
+	<key>Use !important tag</key>
+	<string>!important 태그 사용</string>
+	
+	<key>Recommended</key>
+	<string>추천됨</string>
+	
+	<key>Clear font cache and restart SpringBoard</key>
+	<string>폰트 캐시 지우고 SpringBoard 재시작</string>
+	
+	<key>Restart SpringBoard</key>
+	<string>SpringBoard 재시작</string>
+	
+	<key>A-Font will delete the following files and restart Springboard.Are you sure?</key>
+	<string>A-Font가 다음 파일을 지우고 Springboard를 재시작할것입니다.
+확실한가요?</string>
+	
+	<key>Cancel</key>
+	<string>취소</string>
+	
+	<key>Clear cache</key>
+	<string>캐시 제거</string>
+	
+	<key>Change your font!</key>
+	<string>폰트를 바꾸세요!</string>
+	
+	<key>A-Font is fast</key>
+	<string>A-Font는 빠릅니다.</string>
+	
+	<key>A-Font is easy</key>
+	<string>A-Font는 쉽습니다.</string>
+	
+	<key>A-Font is convenient</key>
+	<string>A-Font는 편리합니다.</string>
+	
+	<key>If you want custom font? Just place the font to /Library/A-Font/</key>
+	<string>사용자 지정 폰트를 사용하고 싶으신가요? /Library/A-Font/에 폰트 파일을 두기만 하면 됩니다.</string>
+	
+	<key>Easily clear the cache after changing fonts. Just two touches.</key>
+	<string>폰트를 바꾼 뒤, 캐시는 간단하게 지우세요. 터치 두 번이면 됩니다.</string>
+	
+	<key>You can explore new font in Google Fonts and download them to your device.</key>
+	<string>Google Fonts에서 새 폰트를 찾아보고, 내 기기에 다운로드하세요.</string>
+	
+	<key>Continue</key>
+	<string>계속</string>
+
+	<key>Enable UILabel Hook</key>
+	<string>UILabel 후킹 활성화</string>
+</dict>
+</plist>
